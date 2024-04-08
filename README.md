@@ -1,5 +1,5 @@
 #space-shooter
 
 Gameplay:
-![alt text](https://github.com/TheBeginner2002/space-shooter/tree/main/VidDemo/Gameplay1.1.gif)
+![Gameplay](https://github.com/TheBeginner2002/space-shooter/blob/main/VidDemo/Gameplay1.1.gif)
 
