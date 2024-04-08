@@ -1,5 +1,5 @@
 #space-shooter
 
 Gameplay:
-![alt text](VidDemo/Gameplay.gif)
+![alt text](space-shooter/VidDemo/Gameplay.gif)
 
